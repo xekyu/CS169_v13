@@ -6,7 +6,7 @@ Script to download all videos for Berkeley CS169.
 Quick Download
 ==============
 
-On Linux, from the directory you would like to download the videos to,
+On Linux, from the directory you would like to download the videos to, type
 
 ```
 wget https://raw.github.com/xekyu/CS169_v13/master/CS169_v13.txt
