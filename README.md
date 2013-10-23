@@ -12,7 +12,7 @@ On Linux, from the directory you would like to download the videos to, type
 wget https://raw.github.com/xekyu/CS169_v13/master/CS169_v13.txt
 wget -N -i CS169_v13.txt
 ```
-For subtitles,
+For subtitles (through week 3 as of Oct. 23),
 
 ```
 wget https://raw.github.com/xekyu/CS169_v13/master/CS169_v13_subtitles.txt
